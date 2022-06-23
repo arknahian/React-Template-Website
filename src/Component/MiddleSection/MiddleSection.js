@@ -13,7 +13,7 @@ const MiddleSection = () => {
 
             {/* Trending nfts */}
             This is trending nfts
-
+            There will be some cards
 
         </div>
     );
