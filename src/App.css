@@ -1,0 +1,22 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.left-section{
+    width: 270px;
+    border: 1px solid lightgrey;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 929px;
+}
+.middle-section {
+    width: 1180px;
+}
+.right-section {
+    width: 470px;
+}
+.main{
+    display: flex;
+    align-items: flex-start;
+}

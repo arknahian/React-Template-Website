@@ -1,0 +1,9 @@
+.navItem li{
+    list-style-type: none;
+    padding: 20px 59px;
+    cursor: pointer;
+    transition: all linear 100ms;
+}
+.navItem li:hover{
+    border-left: 6px solid #3870fe;
+}

@@ -1,0 +1,13 @@
+.mainNavigation{
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+    width: 68px;
+    margin-bottom: 20px;
+    /* padding: 0 59px; */
+    margin-left: 61px;
+}
+.logo img {
+    width: 100%;
+}
